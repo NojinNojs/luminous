@@ -38,8 +38,8 @@ Follow these steps to set up and run the project locally.
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/luminous-ecommerce.git
-    cd luminous-ecommerce
+    git clone https://github.com/NojinNojs/luminous.git
+    cd luminous/backend
     ```
 
 2. **Install dependencies:**

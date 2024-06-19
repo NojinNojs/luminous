@@ -65,6 +65,7 @@ Follow these steps to set up and run the project locally.
 
 ## Project Structure
 
+```sh
 luminous/
 ├── backend/
 │ ├── config/
@@ -95,6 +96,7 @@ luminous/
 ├── .env
 ├── LICENSE
 ├── README.md
+```
 
 ## Contributing
 
